@@ -1,0 +1,3 @@
+# Root .gitignore
+# Ignore environment file
+.env
